@@ -1,5 +1,6 @@
 # Unity-Barracuda-MNIST-WebGL-Sample
 Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論するサンプルです。<br>
+![v9g8l-5fqfl](https://user-images.githubusercontent.com/37477845/107118246-1549c680-68c3-11eb-8bb3-961881a20158.gif)
 
 # Demo
 動作確認用ページは以下。<br>
