@@ -3,7 +3,7 @@ Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論す�
 
 # Demo
 動作確認用ページは以下。<br>
-[https://kazuhito00.github.io/Unity-Barracuda-MNIST-WebGL-Sample/WebGL-Build](https://kazuhito00.github.io/Unity-Barracuda-MNIST-WebGL-Sample/WebGL-Build/index.html)
+[https://kazuhito00.github.io/Unity-Barracuda-MNIST-WebGL-Sample/WebGL-Build](https://kazuhito00.github.io/Unity-Barracuda-MNIST-WebGL-Sample/WebGL-Build)
 
 # Requirement 
 * Unity 2020.1.6f1 or later
