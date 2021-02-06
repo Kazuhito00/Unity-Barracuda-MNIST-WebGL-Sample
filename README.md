@@ -13,6 +13,9 @@ Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論す�
 # Reference
 * [Barracuda 1.3.0 preview](https://docs.unity3d.com/Packages/com.unity.barracuda@1.3/manual/index.html)
 
+# ONNXモデル
+![](https://user-images.githubusercontent.com/37477845/107118789-61e2d100-68c6-11eb-860e-c20385d9591f.png)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
