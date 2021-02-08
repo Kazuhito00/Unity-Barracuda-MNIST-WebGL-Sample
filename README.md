@@ -10,7 +10,7 @@ Unity Barracudaを用いてMNIST(手書き数字認識)をWebGL上で推論す�
 * Unity 2020.1.6f1 or later
 * Barracuda 1.3.0 or later
 
-# Requrement (Python)
+# Requrement (Python) ※MNISTモデルを訓練、ONNX変換をする場合のみ
 * Tensorflow 2.4.0 or later
 * tf2onnx 1.8.2 or later
 * onnxruntime 1.6.0 or later(※ONNX変換後の推論をテストする場合のみ)
